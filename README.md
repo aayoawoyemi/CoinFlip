@@ -1,0 +1,2 @@
+# CoinFlip
+Coin Flip Simulator
